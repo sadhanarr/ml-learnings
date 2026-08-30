@@ -10,6 +10,9 @@ Repository dedicated to practical implementations, course modules, and lab assig
 * **Coursework & Labs:** Applied projects, hands-on exercises, and code implementations aligned with the IIT Bombay PGD curriculum.
 
 ---
+## 🗂️ Project Structure
+
+```text
 ├── 01-machine-learning/
 ├── 02-deep-learning/
     ├── forward-propagation       # Forward propagation, Activation Functions
