@@ -16,4 +16,4 @@ Repository dedicated to practical implementations, course modules, and lab assig
 ├── 01-machine-learning/
 ├── 02-deep-learning/
     ├── forward-propagation       # Forward propagation, Activation Functions
-    └── backward-propagation
+    └── backward-propagation      # Building NN with Back propagation for XOR gate
